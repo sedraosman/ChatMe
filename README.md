@@ -33,4 +33,4 @@ A real-time chat application built using **Flutter** and **Firebase**, allowing 
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/sedraosman/ChatMe.git
-cd chat_app
+cd ChatMe
