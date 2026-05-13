@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "139913508975",
+    "project_id": "chatme-8f215",
+    "storage_bucket": "chatme-8f215.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139913508975:android:49523ca61c7eec8d35359a",
+        "android_client_info": {
+          "package_name": "com.osman.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk3T6oU_RomUcl-5k3AVJLyHmKOfheeyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
