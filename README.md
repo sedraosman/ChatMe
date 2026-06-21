@@ -31,13 +31,6 @@ A real-time chat application built using **Flutter** and **Firebase**, allowing 
 ---
 
 
-## ⚙️ Design
-![Description](chat.png)
-
-
----
-
-
 ## ⚙️ Getting Started
 
 ### 1. Clone the repository
@@ -45,3 +38,10 @@ A real-time chat application built using **Flutter** and **Firebase**, allowing 
 git clone https://github.com/sedraosman/ChatMe.git
 cd ChatMe
 
+---
+
+## ⚙️ Design
+![Description](chat.png)
+
+
+---
