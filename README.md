@@ -30,7 +30,7 @@ A real-time chat application built using **Flutter** and **Firebase**, allowing 
 ---
 
 ## ⚙️ Design
-![Description](chat.png)
+![Description](chat1.png)
 
 
 ---
