@@ -21,7 +21,7 @@ A real-time chat application built using **Flutter** and **Firebase**, allowing 
 
 ---
 
-## 📸 Screenshots
+## 📸 Screen
 - Welcome Screen  
 - Login Screen  
 - Registration Screen  
