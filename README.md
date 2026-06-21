@@ -27,17 +27,6 @@ A real-time chat application built using **Flutter** and **Firebase**, allowing 
 - Registration Screen  
 - Chat Screen  
 
-
----
-
-
-## ⚙️ Getting Started
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/sedraosman/ChatMe.git
-cd ChatMe
-```bash
 ---
 
 ## ⚙️ Design
