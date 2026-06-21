@@ -1,4 +1,4 @@
-![Description](chat.png)
+
 # 📱 ChatMe - Flutter Firebase Chat App
 
 A real-time chat application built using **Flutter** and **Firebase**, allowing users to register, log in, and send messages instantly.
@@ -35,3 +35,6 @@ A real-time chat application built using **Flutter** and **Firebase**, allowing 
 ```bash
 git clone https://github.com/sedraosman/ChatMe.git
 cd ChatMe
+
+
+![Description](chat.png)
