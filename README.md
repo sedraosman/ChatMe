@@ -1,4 +1,4 @@
-![Description](chat1.png)
+![Description](chat1 (1).png)
 # 📱 ChatMe - Flutter Firebase Chat App
 
 A real-time chat application built using **Flutter** and **Firebase**, allowing users to register, log in, and send messages instantly.
